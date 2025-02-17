@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<div align="center">
 <img align="right" height="150" src="https://i.pinimg.com/originals/33/bd/d7/33bdd73f8ed677ef20a71935341b5c22.gif"  />
 
 ###
@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
-
+</div>
 ###
 
 <div align="left">
