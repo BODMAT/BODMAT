@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="30" alt="zustand logo" />
   <img width="12" />
-  <img src="https://private-user-images.githubusercontent.com/3438503/427206943-31bf9833-8b8e-4d65-8980-1def97e3f95a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzNjMzNzIsIm5iZiI6MTc0NDM2MzA3MiwicGF0aCI6Ii8zNDM4NTAzLzQyNzIwNjk0My0zMWJmOTgzMy04YjhlLTRkNjUtODk4MC0xZGVmOTdlM2Y5NWEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQxMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MTFUMDkxNzUyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmYzYTBiY2E4YzdjMjQwZDk0Y2VkODQwZTRlOGIzMWYyMzM2MTY2OGViMzMwMmUyZDg2ZmE2ZjE1ZWVlODZhMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.AIW-kQGhjGl5uM_9hMoHql9uHkndCn6b382Gqj0GlNI" height="30" alt="tanstack query logo" />
+  <img src="https://tanstack.com/_build/assets/splash-dark-8nwlc0Nt.png" height="30" alt="tanstack query logo" />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
