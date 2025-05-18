@@ -23,9 +23,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="30" alt="zustand logo" />
+  <img src="./images/zustand.svg" height="30" alt="zustand logo" />
   <img width="12" />
-  <img src="https://tanstack.com/_build/assets/splash-dark-8nwlc0Nt.png" height="30" alt="tanstack query logo" />
+  <img src="./images/tanstack.png" height="30" alt="tanstack query logo" />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
