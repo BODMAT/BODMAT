@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Bohdan and I'm a frontend developer</h2>
+<h2 align="left">Full Stack Developer</h2>
 
 ###
 
@@ -37,6 +37,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+
+  <img width="12" />
+  <img src="./images/postgre.png" height="30" alt="postgre" />
+
+  <img width="12" />
+  <img src="./images/prisma.png" height="30" alt="prisma orm" />
+
+  <img width="12" />
+  <img src="./images/firebase.png" height="30" alt="firebase" />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
