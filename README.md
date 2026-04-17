@@ -21,11 +21,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="./images/nextjs.webp" height="30" alt="nextjs logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="./images/zustand.svg" height="30" alt="zustand logo" />
   <img width="12" />
   <img src="./images/tanstack.png" height="30" alt="tanstack query logo" />
+  <img width="12" />
+  <img src="./images/i18n.png" height="30" alt="i18n logo" />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -37,7 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-
+  <img width="12" />
+  <img src="./images/Oauth.png" height="30" alt="OAuth logo"  />
+  <img width="12" />
+  <img src="./images/stripe.png" height="30" alt="stripe logo"  />
   <img width="12" />
   <img src="./images/postgre.png" height="30" alt="postgre" />
 
@@ -46,6 +53,9 @@
 
   <img width="12" />
   <img src="./images/firebase.png" height="30" alt="firebase" />
+
+  <img width="12" />
+  <img src="./images/docker.png" height="30" alt="docker" />
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
