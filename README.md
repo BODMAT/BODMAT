@@ -30,6 +30,8 @@
   <img src="./images/tanstack.png" height="30" alt="tanstack query logo" />
   <img width="12" />
   <img src="./images/i18n.png" height="30" alt="i18n logo" />
+  <img width="12" />
+  <img src="./images/framer-motion.png" height="30" alt="framer motion logo" />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
